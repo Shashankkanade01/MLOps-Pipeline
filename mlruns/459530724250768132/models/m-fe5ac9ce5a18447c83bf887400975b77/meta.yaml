@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Administrator/Desktop/DEVOPSMOCK/MLOps-Pipeline/mlruns/459530724250768132/models/m-fe5ac9ce5a18447c83bf887400975b77/artifacts
+creation_timestamp: 1758171768637
+experiment_id: '459530724250768132'
+last_updated_timestamp: 1758171771959
+model_id: m-fe5ac9ce5a18447c83bf887400975b77
+model_type: null
+name: model
+source_run_id: 5c64b36c5d3c4984aba904f907932676
+status: 2
+status_message: null

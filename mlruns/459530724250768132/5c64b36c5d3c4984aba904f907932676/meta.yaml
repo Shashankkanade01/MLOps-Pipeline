@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/DEVOPSMOCK/MLOps-Pipeline/mlruns/459530724250768132/5c64b36c5d3c4984aba904f907932676/artifacts
+end_time: 1758171772020
+entry_point_name: ''
+experiment_id: '459530724250768132'
+lifecycle_stage: active
+run_id: 5c64b36c5d3c4984aba904f907932676
+run_name: brawny-koi-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758171768456
+status: 3
+tags: []
+user_id: Administrator
