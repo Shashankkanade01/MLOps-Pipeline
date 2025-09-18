@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  # TODO: Define API service
+  # TODO: Add MLflow service if needed
+  # TODO: Expose ports
